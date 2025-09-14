@@ -5,3 +5,4 @@ export { default as CategoriesOverview } from './CategoriesOverview';
 export { default as EditorsPicks } from './EditorsPicks';
 export { default as NewsletterSignup } from './NewsletterSignup';
 export { RegionalNewsSection } from './RegionalNews';
+export { default as ArticlePage } from './ArticlePage/ArticlePage';
